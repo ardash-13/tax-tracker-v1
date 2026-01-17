@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --icon=assets/icon.ico --add-data "data;data" --add-data "assets;assets" NonVatTaxTracker.py
